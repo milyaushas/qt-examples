@@ -1,0 +1,4 @@
+/Users/milyausha/qt_examples/moving_rectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/milyausha/qt_examples/moving_rectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/milyausha/qt_examples/moving_rectangle/cmake-build-debug/CMakeFiles/qt_moving_rectangle.dir
+/Users/milyausha/qt_examples/moving_rectangle/cmake-build-debug/CMakeFiles/qt_moving_rectangle_autogen.dir

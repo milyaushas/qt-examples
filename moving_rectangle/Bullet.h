@@ -1,16 +1,11 @@
-//
-// Created by Milyausha on 03/03/2020.
-//
+#pragma once
+#include <QGraphicsRectItem>
+#include <QObject>
 
-#ifndef QT_MOVING_RECTANGLE_BULLET_H
-#define QT_MOVING_RECTANGLE_BULLET_H
-
-
-
-class Bullet {
-
+class Bullet: public QObject,public QGraphicsRectItem{
+    Q_OBJECT
+public:
+    Bullet();
+public slots:
+    void move();
 };
-
-
-
-#endif //QT_MOVING_RECTANGLE_BULLET_H

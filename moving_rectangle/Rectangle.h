@@ -1,14 +1,9 @@
-//
-// Created by Milyausha on 03/03/2020.
-//
+#pragma once
+#include <QGraphicsRectItem>
 
-#ifndef QT_MOVING_RECTANGLE_RECTANGLE_H
-#define QT_MOVING_RECTANGLE_RECTANGLE_H
-
-
-class Rectangle {
-
+class Rectangle: public QGraphicsRectItem {
+public:
+    void keyPressEvent(QKeyEvent *event) override;
 };
 
 
-#endif //QT_MOVING_RECTANGLE_RECTANGLE_H

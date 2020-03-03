@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+7b77bdfdb3ea76fe173db9158f1d8d44 CMakeFiles/qt_moving_rectangle_autogen
